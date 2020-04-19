@@ -1,2 +1,1 @@
-puts "私の名前は清水雅人です"
-puts "年齢は" + 24.to_s + "歳です"
+puts "webcamp".upcase
